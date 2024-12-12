@@ -33,7 +33,7 @@ const ItemCard = ({ name, items, price }) => {
       {/* Image */}
       <div className="w-16 h-16 bg-primaryGreen rounded-lg overflow-hidden">
         <img
-          src="../public/آب پرتقال.jpg"
+          src="../public/orange.jpg"
           alt={name}
           className="w-full h-full object-cover"
         />
